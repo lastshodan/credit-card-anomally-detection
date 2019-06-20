@@ -1,6 +1,6 @@
 # Overview
 
-This is the code for [this](https://www.youtube.com/watch?v=UNgdIkuVC6g) video on Youtube by Siraj Raval. Fraud Detection model based on anonymized credit card transactions
+DNL for credit card anomally detection
 
 ## Getting started
 In order to set up a microservice exposing a fraud detection POST endpoint, follow these steps:
