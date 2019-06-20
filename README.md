@@ -61,4 +61,4 @@ from the repo root
 
 ## Credits
 
-Credits for this code go to [cloudacademy](https://github.com/cloudacademy/fraud-detection). I've merely created a wrapper to get people started. 
+Credits for this code go to [cloudacademy](https://github.com/cloudacademy/fraud-detection). 
